@@ -12,6 +12,8 @@ public class EgoGateway {
     public static void main(String[] args) {
         SpringApplication.run(EgoGateway.class);
         // 第一次提交
-        System.out.println("hello");
+        System.out.println("hello1");
+        // 第二次提交
+        System.out.println("hello2");
     }
 }
