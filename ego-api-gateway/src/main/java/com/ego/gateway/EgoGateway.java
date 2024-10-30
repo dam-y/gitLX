@@ -11,5 +11,7 @@ import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 public class EgoGateway {
     public static void main(String[] args) {
         SpringApplication.run(EgoGateway.class);
+        // 第一次提交
+        System.out.println("hello");
     }
 }
