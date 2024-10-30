@@ -15,5 +15,7 @@ public class EgoGateway {
         System.out.println("hello1");
         // 第二次提交
         System.out.println("hello2");
+        // 第三次提交
+        System.out.println("hello3");
     }
 }
